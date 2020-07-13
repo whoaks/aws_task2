@@ -26,6 +26,6 @@ print `ifconfig`;
 ?>
 
 </pre>
-<img src='d339e7uq78dptl.cloudfront.net/cr7.jpg'>
+<img src='ddtax7xa5wn1t.cloudfront.net/cr7.jpg'>
 </body>
 </html>
