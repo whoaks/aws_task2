@@ -296,7 +296,7 @@ retain_on_delete = true
 
 resource "aws_codepipeline" "codepipeline" {
   name     = "diyaksh"
-  role_arn = "arn:aws:iam::341111013258:role/service-role/AWSCodePipelineServiceRole-ap-south-1-diyaksh"
+  role_arn = "arn:aws:iam::341111******:role/service-role/AWSCodePipelineServiceRole-ap-south-1-diyaksh"
 
 
    artifact_store {
